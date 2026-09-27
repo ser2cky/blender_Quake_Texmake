@@ -2,6 +2,9 @@
 This a port of the in-house UV-mapper tool that ID Software wrote for the development of Quake1/2. I hope that the 2 people (including me)
 that care about Quake 1/2's art process, will find this tool fun to use.
 
+![example 1](example1.jpg)
+![example 2](example2.jpg)
+
 Pieces of code I referenced while making this:
 * TEXMAKE.C (from https://github.com/id-Software/quake-tools)
 * MODELGEN.C (from https://github.com/id-Software/quake-tools)
